@@ -938,7 +938,7 @@ class ProductsScreen(ctk.CTkFrame):
             "end"
         )
 
-        self.reorder_entry.delete(
+        self.reorder_entry.delete(        pyinstaller --onefile --windowed --icon=app_icon.ico --name="Gideon Management System" main.py        pyinstaller --onefile --windowed --icon=app_icon.ico --name="Gideon Management System" main.py        dist/Gideon Management System.exe
             0,
             "end"
         )
