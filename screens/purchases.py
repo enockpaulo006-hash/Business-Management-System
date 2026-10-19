@@ -1550,7 +1550,6 @@ class PurchasesScreen(ctk.CTkFrame):
 
             # ==================================================
             # REFRESH
-            # ==================================================
 
             self.load_products()
             self.load_purchases()
