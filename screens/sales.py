@@ -1337,7 +1337,6 @@ class SalesScreen(ctk.CTkFrame):
 
         # ==================================================
         # UPDATE BUTTON
-        # ==================================================
 
         update_button = ctk.CTkButton(
             window,
