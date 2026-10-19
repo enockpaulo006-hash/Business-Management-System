@@ -1527,7 +1527,6 @@ class PurchasesScreen(ctk.CTkFrame):
 
             # ==================================================
             # DELETE
-            # ==================================================
 
             cursor.execute("""
                 DELETE FROM purchases
