@@ -788,7 +788,7 @@ class ProductsScreen(ctk.CTkFrame):
 
             connection.close()
             
-                # ==================================================
+                
     # ARCHIVE PRODUCT
     # ==================================================
 
