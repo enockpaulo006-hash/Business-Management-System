@@ -1353,7 +1353,6 @@ class SalesScreen(ctk.CTkFrame):
         
     # ==================================================
     # FIFO COST FOR EDITED SALE
-    # ==================================================
 
     def calculate_fifo_cost_for_edit(
         self,
