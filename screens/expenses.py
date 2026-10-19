@@ -214,7 +214,6 @@ class ExpensesScreen(ctk.CTkFrame):
 
     # =========================
     # ADD EXPENSE
-    # =========================
 
     def add_expense(self):
 
