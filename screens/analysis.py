@@ -1248,7 +1248,7 @@ class AnalysisScreen(ctk.CTkFrame):
 
             # ==================================================
             # RECOMMENDATION
-            # ==================================================
+          
 
             ctk.CTkLabel(
                 card,
