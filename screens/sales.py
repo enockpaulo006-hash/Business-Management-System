@@ -1311,8 +1311,7 @@ class SalesScreen(ctk.CTkFrame):
 
             # ==================================================
             # FINISH
-           
-
+            
             window.destroy()
 
             messagebox.showinfo(
